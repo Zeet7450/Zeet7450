@@ -12,7 +12,7 @@
 
   <!-- QUICK CONNECT & HIGHLIGHT BADGES -->
   <p>
-    <a href="https://www.linkedin.com/in/verrel-adriel-gunawan-gunawan-b75142376"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_Verrel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/verreladriel"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_Verrel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://img.shields.io/badge/Focus-GreenTech_%26_K3LH_IoT-059669?style=for-the-badge&logo=leaflet&logoColor=white" alt="GreenTech" />
     <img src="https://img.shields.io/badge/Speedcuber-3x3_%26_Megaminx-F59E0B?style=for-the-badge&logo=rubikscube&logoColor=white" alt="Speedcuber" />
   </p>
