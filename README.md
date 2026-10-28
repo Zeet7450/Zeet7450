@@ -1,95 +1,86 @@
 <div align="center">
 
-# Verrel Adriel Gunawan
+  <!-- ANIMATED WAVING HEADER (GREENTECH EMERALD THEME) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=200&section=header&text=Verrel%20Adriel%20Gunawan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20IoT%20Engineer%20%7C%20GreenTech%20Innovator%20%7C%20Speedcuber&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
-**Software, Cloud & IoT Systems Engineer | GreenTech & Sustainable Computing**  
-*SIJA Student at State Vocational High School 1 Jakarta*
+  <!-- ANIMATED TYPING SVG -->
+  <a href="https://github.com/Zeet7450">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=780&lines=SIJA+Student+@+State+Vocational+High+School+1+Jakarta;2nd+Place+Winner+@+SIS-PIK+HACKS+1.0+National+Hackathon;Samsung+Innovation+Campus+Batch+7+(Score:+99.79%2F100);Bridging+Cloud+Architecture,+IoT+Telemetry+%26+Environmental+Tech;Solving+Complex+Systems+Like+a+3x3+Rubik's+Cube+%F0%9F%A7%A9" alt="Typing SVG" />
+  </a>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Vue.js](https://img.shields.io/badge/Vue.js%203-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
-[![AWS](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com)
-[![ESP32](https://img.shields.io/badge/ESP32%20IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+  <br/>
 
-[Explore Projects](#-featured-engineering-projects) • [Verified Credentials](#-verified-credentials--honors) • [Hardware & Cloud Architecture](#-technical-competencies) • [Devpost Portfolio](https://devpost.com/Zeet7450)
+  <!-- QUICK CONNECT & HIGHLIGHT BADGES -->
+  <p>
+    <a href="https://www.linkedin.com/in/verrel-adriel-gunawan-gunawan-b75142376"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_Verrel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/Focus-GreenTech_%26_K3LH_IoT-059669?style=for-the-badge&logo=leaflet&logoColor=white" alt="GreenTech" />
+    <img src="https://img.shields.io/badge/Speedcuber-3x3_%26_Megaminx-F59E0B?style=for-the-badge&logo=rubikscube&logoColor=white" alt="Speedcuber" />
+    <img src="https://img.shields.io/badge/TOEIC-600_(Intermediate)-2563EB?style=for-the-badge" alt="TOEIC" />
+  </p>
 
 </div>
 
 ---
 
-### 🌿 About Me
+### 🧩 Beyond the Code: The Rubik's Cube Mindset
+> *"Whether solving a 3x3 Rubik's Cube, a 12-sided Megaminx, or debugging a distributed IoT sensor network, the core principle remains the same: pattern recognition, algorithmic efficiency, and staying calm under time pressure."*
 
-I am an Information Systems, Networks, and Applications (SIJA) student at **State Vocational High School 1 Jakarta**, specializing in the intersection of **Software, Cloud, and Embedded IoT Engineering** with **Environmental Engineering (GreenTech & Sustainable Computing)**.
-
-My engineering philosophy centers on building energy-efficient telemetry systems, low-power edge computing architectures, and cloud-native monitoring pipelines that address real-world ecological and industrial safety challenges. Whether architecting serverless medical platforms on AWS, designing multi-sensor fire and air quality detectors with ESP32 microcontrollers, or streaming telemetry over MQTT for municipal waste optimization, I focus on measurable reliability, clean system architecture, and sustainable compute resource utilization.
-
-- 🔭 **Current Focus:** Industrial K3LH safety telemetry, edge AI sensor fusion, and serverless distributed architectures.
-- 🌱 **GreenTech Mission:** Deploying low-power environmental sensors (ISPU air quality, VOCs, wildfire hotspots, municipal waste logistics) to deliver actionable public and industrial safety intelligence.
-- ⚡ **Competitions & Hackathons:** 2nd Place National Winner at SIS-PIK HACKS 2026, Samsung Innovation Campus Batch 7 Python Top Scorer (99.79 / 100), and LKS Cloud Computing competitor.
-- 🌐 **Global Communication:** Professional English proficiency in technical problem-solving, documentation, and international workplace collaboration.
+I am an **Information Systems, Networks, and Applications (SIJA)** student at **State Vocational High School 1 Jakarta** preparing for future undergraduate studies in **Environmental Engineering**. As AI and digital infrastructure scale rapidly, I build energy-efficient cloud architectures and real-time IoT environmental telemetry systems to protect and monitor our natural ecosystem.
 
 ---
 
 ### 🛠️ Technical Competencies
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Cloud & Distributed Architecture** | AWS (SAM, Lambda, S3, API Gateway), Serverless Architecture, Docker, Microservices, RESTful APIs, oRPC |
-| **Embedded Systems & IoT** | ESP32 SoC, FreeRTOS, MQTT (EMQX Broker), GPIO Telemetry, ADC Sampling, Sensor Fusion (MQ-2, MQ-135, Flame, Ultrasonic) |
-| **Fullstack Web Engineering** | Next.js 16 (App Router), React 19, Vue 3, TypeScript, JavaScript (ESNext), Node.js, Tailwind CSS, Three.js (React Three Fiber) |
-| **Databases & ORM** | PostgreSQL, Neon Serverless Postgres, Drizzle ORM, Prisma ORM, Supabase, Redis |
-| **Environmental & Safety (K3LH)** | Air Quality Index (AQI / ISPU) Monitoring, VOC & Gas Anomaly Detection, Wildfire Hotspot Intelligence, Industrial HSE Protocols |
-| **DevOps, Tooling & Core Systems** | Linux (Debian / Ubuntu), Bash Scripting, Git, GitHub Actions, Vite, Turborepo, Postman |
-
----
-
-### 🚀 Featured Engineering Projects
-
-| Project | Domain / Stack | Key Architecture & Quantifiable Impact | Links |
-| :--- | :--- | :--- | :---: |
-| **SmokeSentry v2.0** | IoT, Next.js 16, React 19, Neon Postgres, Drizzle, Three.js, ESP32 | Enterprise-grade industrial safety (K3LH) and air quality telemetry system. Fuses MQ-2 (smoke/LPG), MQ-135 (VOC/air quality), and optical flame sensors with real-time Telegram alerts, a 3D digital twin hardware model, and multi-tenant access control. | [Repository](https://github.com/Zeet7450/smoke-sentry) • [Live Demo](https://smokesentry.my.id) |
-| **Rotom (SIS-PIK HACKS 1.0)** | IoT, Next.js, NestJS, MQTT, EMQX, PostgreSQL, Docker, ESP32 | **2nd Place National Award Winner**. Smart municipal waste logistics telemetry platform. Utilizes low-power edge nodes and EMQX MQTT brokers to stream bin fill levels, route optimization, and facility capacity in real time. | [Devpost](https://devpost.com/software/rotom) |
-| **LUMI Environmental Portal** | Public Service AI, JavaScript, Real-time APIs, VPS AI Hosting | Public environmental safety service built for **AI HackFest 2026** (IDwebhost x CloudBaik). Coordinates multi-agency disaster response across BPBD, DLH, and BNPB, providing citizen air quality (ISPU/AQI) maps and wildfire hotspot tracking. | [Repository](https://github.com/Zeet7450/lumi) • [Live Demo](https://lumi-indonesia.vercel.app) • [Video](https://youtu.be/no9l3AV4_Y0) |
-| **Nusantara Telemedicine** | Cloud Computing, Vue 3, Vite, Pinia, AWS SAM, Serverless | Enterprise serverless telemedicine architecture engineered for the **LKS Cloud Computing 2026** skills competition. Fully decoupled backend with AWS Lambda, DynamoDB, API Gateway, and encrypted health records. | [Repository](https://github.com/Zeet7450/lks-cloud-2026) |
-
----
-
-### 🏆 Verified Credentials & Honors
-
-| Award / Certification | Issuing Organization | Score / Result | Core Competencies Assessed |
-| :--- | :--- | :---: | :--- |
-| **Samsung Innovation Campus (Batch 7)** | Samsung Electronics Indonesia | **99.79 / 100** | Python programming, algorithms, data structures, file handling, and automated coding examinations (100% Attendance, 100% Test, 100% Coding). |
-| **SIS-PIK HACKS 2026 National Hackathon** | SIS-PIK Committee | **2nd Place Winner** | Smart environmental waste management, IoT edge telemetry, rapid fullstack prototyping, and real-time MQTT architecture. |
-| **Cloud & Backend JavaScript Competency** | Dicoding Academy (AWS Validated) | **Certified** | Modern JavaScript, asynchronous architecture, ECMAScript modules, object-oriented and functional programming standards validated by AWS. |
-| **Interactive Front-End Web Development** | Dicoding Academy | **Certified** | DOM manipulation, browser storage APIs, responsive UI engineering, and web performance optimization. |
-| **Basic Web Programming (HTML & CSS)** | Dicoding Academy | **Certified** | Semantic HTML5, CSS layouting, Flexbox, media queries, and responsive web accessibility standards. |
-| **TRAE SOLO Unbound Creativity (National)** | TRAE SOLO Indonesia | **2nd & 3rd Place** | Juara 2 Demo Wall Popularity Track (USD 300 MiniMax Credit) & Juara 3 Video Generation Track (Rp 3.000.000 PixVerse) with Team BUNNIES. |
-
----
-
-### 📊 GitHub Activity & Telemetry
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zeet7450&show_icons=true&bg_color=030f0a&title_color=34d399&text_color=e2e8f0&icon_color=10b981&border_color=10b98133&border_radius=8" alt="Verrel's GitHub Stats" height="165" />
-<img src="https://streak-stats.demolab.com/?user=Zeet7450&background=030f0a&ring=10b981&fire=34d399&currStreakNum=34d399&sideNums=a7f3d0&sideLabels=94a3b8&dates=6ee7b7&border=10b98133&border_radius=8" alt="GitHub Streak" height="165" />
+  **Fullstack Web, Cloud Architecture & Core Systems**
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,vue,nodejs,tailwind,threejs,aws,docker,postgres,supabase,redis,prisma,linux,debian,git,githubactions,vite&perline=10" alt="Tech Stack Icons" />
 
-<br/>
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeet7450&layout=compact&bg_color=030f0a&title_color=34d399&text_color=e2e8f0&border_color=10b98133&border_radius=8" alt="Top Languages" height="140" />
+  **Embedded IoT, Telemetry & Environmental Safety (K3LH)**
+  <br/>
+  <img src="https://img.shields.io/badge/ESP32_SoC-FreeRTOS_%26_ADC_Telemetry-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT_Protocol-EMQX_Broker-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensor_Fusion-MQ2_%7C_MQ135_%7C_Flame_%7C_Ultrasonic-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Environmental_K3LH-AQI_ISPU_%26_Wildfire_Intelligence-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database_ORM-Neon_Serverless_%26_Drizzle_ORM-0F172A?style=flat-square" />
 
 </div>
 
 ---
 
-### 📬 Connect & Collaborate
+### 🚀 Featured Engineering Projects
 
-- **GitHub:** [github.com/Zeet7450](https://github.com/Zeet7450)
-- **Devpost:** [devpost.com/Zeet7450](https://devpost.com/Zeet7450)
-- **Education:** State Vocational High School 1 Jakarta (Major: Information Systems, Networks, and Applications)
-- **Location:** Jakarta, Indonesia 🇮🇩
+| Project & Domain | Architecture & Quantifiable Impact | Quick Access |
+| :--- | :--- | :---: |
+| **🔥 SmokeSentry v2.0**<br/>`IoT` `Next.js 16` `React 19` `Three.js` `ESP32` `Drizzle` | Enterprise industrial safety (K3LH) and air quality telemetry. Fuses MQ-2, MQ-135, and flame sensors with instant Telegram alerts and an interactive 3D digital twin enclosure. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/Zeet7450/smoke-sentry)<br/>[<img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white" />](https://smokesentry.my.id) |
+| **♻️ Rotom (SIS-PIK HACKS 1.0)**<br/>`IoT` `Next.js` `NestJS` `EMQX MQTT` `Docker` `ESP32` | **🥈 2nd Place National Winner.** Smart municipal waste logistics platform streaming real-time bin fill levels, route optimization, and facility capacity via low-power edge nodes. | [<img src="https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white" />](https://devpost.com/software/rotom) |
+| **🌍 LUMI Environmental Portal**<br/>`Public Service AI` `JavaScript` `Real-time APIs` | Built for **AI HackFest 2026**. Multi-agency disaster response portal (BPBD, DLH, BNPB) featuring citizen air quality (ISPU/AQI) maps and wildfire hotspot tracking. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/Zeet7450/lumi)<br/>[<img src="https://img.shields.io/badge/Demo-10B981?style=flat-square" />](https://lumi-indonesia.vercel.app) [<img src="https://img.shields.io/badge/Video-FF0000?style=flat-square&logo=youtube" />](https://youtu.be/no9l3AV4_Y0) |
+| **🏥 Nusantara Telemedicine**<br/>`AWS SAM` `Lambda` `DynamoDB` `Vue 3` `Serverless` | Engineered for **LKS Cloud Computing 2026**. Decoupled serverless telemedicine platform utilizing AWS Lambda, API Gateway, and encrypted patient records. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/Zeet7450/lks-cloud-2026) |
+
+---
+
+### 🏆 Top Honors & Verified Credentials
+
+| Award / Certification | Organization | Result / Score | Key Highlight |
+| :--- | :--- | :---: | :--- |
+| **🏅 Samsung Innovation Campus (Batch 7)** | Samsung Electronics Indonesia | **99.79 / 100** | Perfect 100% scores in Python Coding Exam, Logic Test, and Attendance. |
+| **🥈 SIS-PIK HACKS 2026 (National)** | SIS-PIK Committee | **2nd Place Winner** | Built real-time IoT municipal waste management & MQTT edge telemetry. |
+| **🏆 TRAE SOLO Unbound Creativity** | TRAE SOLO Indonesia | **2nd & 3rd Place** | Won Demo Wall Popularity Track (MiniMax) & Video Track (PixVerse) with Team BUNNIES. |
+
+<details>
+  <summary><b>📂 Click to view AWS-Validated & Dicoding Technical Certifications</b></summary>
+  <br/>
+  <ul>
+    <li><b>Cloud & Backend JavaScript Competency (Dicoding Academy - AWS Validated):</b> Modern ESNext, asynchronous architecture, OOP, and functional programming (46 Hours).</li>
+    <li><b>Interactive Front-End Web Development (Dicoding Academy):</b> DOM manipulation, Web Storage APIs, and responsive UI engineering (45 Hours).</li>
+    <li><b>Basic Web Programming (Dicoding Academy):</b> Semantic HTML5, Flexbox, and responsive web accessibility standards (41 Hours).</li>
+    <li><b>Finalist at COMPFEST 18 (Universitas Indonesia):</b> National IT competition finalist.</li>
+  </ul>
+</details>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
