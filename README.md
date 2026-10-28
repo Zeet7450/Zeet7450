@@ -15,7 +15,6 @@
     <a href="https://www.linkedin.com/in/verrel-adriel-gunawan-gunawan-b75142376"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_Verrel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://img.shields.io/badge/Focus-GreenTech_%26_K3LH_IoT-059669?style=for-the-badge&logo=leaflet&logoColor=white" alt="GreenTech" />
     <img src="https://img.shields.io/badge/Speedcuber-3x3_%26_Megaminx-F59E0B?style=for-the-badge&logo=rubikscube&logoColor=white" alt="Speedcuber" />
-    <img src="https://img.shields.io/badge/TOEIC-600_(Intermediate)-2563EB?style=for-the-badge" alt="TOEIC" />
   </p>
 
 </div>
@@ -60,7 +59,7 @@ I am an **Information Systems, Networks, and Applications (SIJA)** student at **
 | **🌍 LUMI Environmental Portal**<br/>`Public Service AI` `JavaScript` `Real-time APIs` | Built for **AI HackFest 2026**. Multi-agency disaster response portal (BPBD, DLH, BNPB) featuring citizen air quality (ISPU/AQI) maps and wildfire hotspot tracking. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/Zeet7450/lumi)<br/>[<img src="https://img.shields.io/badge/Demo-10B981?style=flat-square" />](https://lumi-indonesia.vercel.app) [<img src="https://img.shields.io/badge/Video-FF0000?style=flat-square&logo=youtube" />](https://youtu.be/no9l3AV4_Y0) |
 | **🏥 Nusantara Telemedicine**<br/>`AWS SAM` `Lambda` `DynamoDB` `Vue 3` `Serverless` | Engineered for **LKS Cloud Computing 2026**. Decoupled serverless telemedicine platform utilizing AWS Lambda, API Gateway, and encrypted patient records. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/Zeet7450/lks-cloud-2026) |
 
-
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=100&section=footer" width="100%" alt="Footer Banner" />
