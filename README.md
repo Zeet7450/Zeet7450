@@ -60,26 +60,7 @@ I am an **Information Systems, Networks, and Applications (SIJA)** student at **
 | **🌍 LUMI Environmental Portal**<br/>`Public Service AI` `JavaScript` `Real-time APIs` | Built for **AI HackFest 2026**. Multi-agency disaster response portal (BPBD, DLH, BNPB) featuring citizen air quality (ISPU/AQI) maps and wildfire hotspot tracking. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/Zeet7450/lumi)<br/>[<img src="https://img.shields.io/badge/Demo-10B981?style=flat-square" />](https://lumi-indonesia.vercel.app) [<img src="https://img.shields.io/badge/Video-FF0000?style=flat-square&logo=youtube" />](https://youtu.be/no9l3AV4_Y0) |
 | **🏥 Nusantara Telemedicine**<br/>`AWS SAM` `Lambda` `DynamoDB` `Vue 3` `Serverless` | Engineered for **LKS Cloud Computing 2026**. Decoupled serverless telemedicine platform utilizing AWS Lambda, API Gateway, and encrypted patient records. | [<img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />](https://github.com/Zeet7450/lks-cloud-2026) |
 
----
 
-### 🏆 Top Honors & Verified Credentials
-
-| Award / Certification | Organization | Result / Score | Key Highlight |
-| :--- | :--- | :---: | :--- |
-| **🏅 Samsung Innovation Campus (Batch 7)** | Samsung Electronics Indonesia | **99.79 / 100** | Perfect 100% scores in Python Coding Exam, Logic Test, and Attendance. |
-| **🥈 SIS-PIK HACKS 2026 (National)** | SIS-PIK Committee | **2nd Place Winner** | Built real-time IoT municipal waste management & MQTT edge telemetry. |
-| **🏆 TRAE SOLO Unbound Creativity** | TRAE SOLO Indonesia | **2nd & 3rd Place** | Won Demo Wall Popularity Track (MiniMax) & Video Track (PixVerse) with Team BUNNIES. |
-
-<details>
-  <summary><b>📂 Click to view AWS-Validated & Dicoding Technical Certifications</b></summary>
-  <br/>
-  <ul>
-    <li><b>Cloud & Backend JavaScript Competency (Dicoding Academy - AWS Validated):</b> Modern ESNext, asynchronous architecture, OOP, and functional programming (46 Hours).</li>
-    <li><b>Interactive Front-End Web Development (Dicoding Academy):</b> DOM manipulation, Web Storage APIs, and responsive UI engineering (45 Hours).</li>
-    <li><b>Basic Web Programming (Dicoding Academy):</b> Semantic HTML5, Flexbox, and responsive web accessibility standards (41 Hours).</li>
-    <li><b>Finalist at COMPFEST 18 (Universitas Indonesia):</b> National IT competition finalist.</li>
-  </ul>
-</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:047857,100:10B981&height=100&section=footer" width="100%" alt="Footer Banner" />
